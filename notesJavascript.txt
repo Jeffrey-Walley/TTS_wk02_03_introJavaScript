@@ -1,0 +1,10 @@
+we will deal with JavaScript (js) history, variables, coercion, and flow control.
+
+call on your js by placing this code in the head
+
+<script src="script.js"></script>
+
+assign values to variables to initialize them (ex: y = 3)
+if varialbles are not initialized they are undeclared
+
+common datatypes: String, Number, Boolean
